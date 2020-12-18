@@ -9,9 +9,9 @@ The aim of this project will be to treat and analyse this dataset in order to ex
 ### Summary
 
 ##### I - Dataset Presentation
-##### II -Observation
-##### III -Classification
-##### IV -Prediction
+##### II - Observation
+##### III - Classification
+##### IV - Prediction
 
 
 ### Documents
