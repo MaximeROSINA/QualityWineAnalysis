@@ -17,5 +17,5 @@ The aim of this project will be to treat and analyse this dataset in order to ex
 ### Documents
 In this github repo you will find :
 - the dataset (zip)
-- the jupyter notebook of the project
+- the jupyter notebook of the project (jpyb) and a python file for the PCA, KMeans and Chi-Square (py).
 - the report (pdf)
